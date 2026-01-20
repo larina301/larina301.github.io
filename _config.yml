@@ -1,3 +1,10 @@
 theme: jekyll-theme-minimal
-title: Milena's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: "My Homepage"
+description: "Made with many tutorials and tears"
+
+# layout
+
+
+navigation:
+ - {file: "/index.html", title: "Index", icon: home}
+
